@@ -1,0 +1,39 @@
+#top{
+background-color: #4d4d00;
+height:80px;
+}
+#content{
+background-color:#888844;
+}
+ul{
+list-style: none;
+margin-right: 80px;
+}
+li{
+display: inline;
+margin-left: 30px;
+}
+.title{
+text-align:center;
+background-color: #4d4d00;
+}
+#footer{
+background-color:#33331a;
+height: 187px;
+}
+.button{
+text-align:center;
+padding:20px 0;
+}
+.top h3{
+font-family:微軟正黑體;
+text-align:center;
+padding:10px 0;
+}
+.form-group{
+font-family:微軟正黑體;
+font-size:16px;
+}
+label{
+  color: white;
+}
